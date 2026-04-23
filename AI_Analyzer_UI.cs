@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace UI_Charging_App
 {
-    public partial class Form1 : Form
+    public partial class AI_Analyzer_UI : UserControl
     {
-        public Form1()
+        public AI_Analyzer_UI()
         {
             InitializeComponent();
         }
